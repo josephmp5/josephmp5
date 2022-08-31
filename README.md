@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephmp5
 - i am a flutter developer 
-- instagram: maviyusuf7
+
 
 <!---
 josephmp5/josephmp5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
